@@ -27,11 +27,4 @@
 ## 📌 Experiência
 - **Chico Rei (2021 - atual):** Desenvolvimento full stack em APIs REST e frontend Vue.js, integrações complexas, otimizações de performance e soluções de impacto.  
 - **Smart NX (2021):** Suporte técnico e testes em VoIP.  
-- **Code Empresa Jr. (2020 - 2021):** Projetista e Gerente Comercial, desenvolvendo apps e sistemas em React e React Native.  
-
----
-
-## 📫 Onde me encontrar
-- 🌐 [LinkedIn](https://www.linkedin.com/in/hyago-assis-a39a63147/)  
-- 💼 [Portfólio / GitHub](https://github.com/HyagoAssis)  
-- ✉️ hyagoassis@gmail.com  
+- **Code Empresa Jr. (2020 - 2021):** Projetista e Gerente Comercial, desenvolvendo apps e sistemas em React e React Native.
